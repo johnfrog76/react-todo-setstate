@@ -1,0 +1,30 @@
+.new-goal {
+    margin: 2rem;
+    text-align: center;
+}
+
+.new-goal button[type=submit]:focus {
+    outline: 0;
+}
+
+  .new-goal input[type=text] {
+    background: transparent;
+    border: 1px solid #ccc;
+    height: 36px;
+    padding: 4px;
+    color: #ccc;
+}
+
+.new-goal input[type=text]:focus {
+    background-color: #222;
+    outline: 0;
+}
+
+.new-goal button[type=submit] {
+    margin-left: 5px;
+    background-color: purple;
+    border: 1px solid purple;
+    height: 36px;
+    color: #efefef;
+    cursor: pointer;
+}

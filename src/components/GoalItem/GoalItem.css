@@ -1,0 +1,20 @@
+.btn-wrap {
+    float: right;
+}
+
+.btn-wrap .btn-remove {
+    margin-right: 5px;
+}
+
+.btn-action {
+    background-color: transparent;
+    border: 1px solid #ccc;
+    color: #ccc;
+    padding: 2px 6px;
+    line-height: normal; 
+    margin-top: -3px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
